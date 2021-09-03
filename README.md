@@ -1,5 +1,7 @@
 # Dead simple emoji picker
 
+[See demo here](https://lab.jeremyblaze.com/emoji-picker)
+
 To use it simply include this in your code (also make sure jQuery is installed)...
 
 ```
